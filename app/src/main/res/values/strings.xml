@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Homework2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_title">Delete</string>
+    <string name="dialog_OK">OK</string>
+    <string name="dialog_Cancel">Cancel</string>
+    <string name="filmDefaultTitle">Default title film</string>
+    <string name="FilmDefautDirector">Default Director</string>
+    <string name="filmDefaultDate">Default date</string>
+    <string name="filmDefautDirector">Default Director</string>
+    <string name="title_activity_film_info">FilmInfoActivity</string>
+    <string name="filmTitle">Title</string>
+    <string name="filmDate">Date</string>
+    <string name="filmDirector">Director</string>
+    <string name="filmTitleHint">Your film Title</string>
+    <string name="filmDirectorHint">Your film Director</string>
+    <string name="filmDateHint">Date of release</string>
+    <string name="Submit">Submit</string>
+    <string name="add_film_key">MESSAGE</string>
+
+</resources>
